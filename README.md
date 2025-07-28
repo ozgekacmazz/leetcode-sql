@@ -33,3 +33,10 @@ SQL • Databases • Backend
  Bu repo, öğrenme sürecimin bir parçasıdır ve sürekli güncellenmektedir. Göz atmanızdan mutluluk duyarım!
 
 
+### Higher Temperature Than Previous Day
+Dosya: `easy/higher_temperature_than_previous_day.sql`
+
+> Önceki güne göre daha sıcak olan günlerin `id`’leri alınır.  
+> `JOIN` ve `DATE_ADD` ile bir gün öncesi eşleştirilip kıyaslama yapılır.
+
+
